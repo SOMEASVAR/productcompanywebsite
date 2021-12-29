@@ -364,7 +364,7 @@ CONTACT PAGE:
 
 ## CONTACT PAGE:
 
-![output](./images/contact.png)
+![output](./images/002.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
